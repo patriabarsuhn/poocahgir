@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phaxoorik.helens.cafe/sitemap.xml
